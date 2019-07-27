@@ -1,0 +1,10 @@
+
+1. git tag -a <patern> -m <Dcommit msg> <commit id>
+we have to create first comit
+2. git show <pattern> : like $git show Release-19.7
+3.To display liost of tags available :
+$git tag
+push the tags:
+git push --tags
+delete a tag:
+$git tag -d <tag>
