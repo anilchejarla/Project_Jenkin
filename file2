@@ -1,0 +1,2 @@
+1. git tag -a <patern> -m <>[Dcommit msg> <commit id>
+we have to create first comit
